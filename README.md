@@ -5,7 +5,42 @@
 
 <img src="https://github.com/hackcoderr/images/blob/master/logo.png"  alt="Arth logo"> 
 
-### :books: This repository is made for having all the concepts, codes, and projects which you all are learning under the mentorship of [Mr. Vimal Daga Sir](https://www.linkedin.com/in/vimaldaga/) in the [Arth-the school of technologies](https://rightarth.com/)
+### :books: This repository is made for having all the concepts, codes, and projects which you all are learning under the mentorship of [Mr. Vimal Daga Sir](https://www.linkedin.com/in/vimaldaga/) in the [Arth-the school of technologies](https://rightarth.com/).
 
-**Repository has the following Structure**        
+**Repository has the following Structure**       
+ * BigData
+	 * Hadoop
+  
+* Cloud Computing
+	 * AWS (CSA)
+	  	
+* DSA
+	 * DSA Core
+	 * Searching
+  * Sorting
+  
+* Data Science
+	 * Machine Learning
+  
+* DevOps
+	 * Ansible
+	 * Docker
+  * Git-Github
+  * Kubernetes (CKA)
+  * Kubernetes (CKAD)
+  
+* Networking
+	 * Core-Networking
+  
+* Operating System
+
+* Programming Language
+	 * Python
+	 
+	  	
+	  	
+	  	
+	  	
+	  
+	  	
  
